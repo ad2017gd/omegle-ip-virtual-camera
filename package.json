@@ -1,0 +1,24 @@
+{
+  "name": "omegle-ip-virtual-camera",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ad2017gd/omegle-ip-virtual-camera.git"
+  },
+  "author": "ad2017gd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ad2017gd/omegle-ip-virtual-camera/issues"
+  },
+  "homepage": "https://github.com/ad2017gd/omegle-ip-virtual-camera#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fetch": "^1.1.0"
+  }
+}
