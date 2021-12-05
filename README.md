@@ -21,3 +21,5 @@ Grab IP data of Omegle stranger and display it on OBS Virtual Camera
 ![](https://cdn.discordapp.com/attachments/912768466958819398/916838171633938492/unknown.png)
 
 - Profit
+
+This project uses [https://github.com/kaaaxcreators/omegleip](https://github.com/kaaaxcreators/omegleip).
