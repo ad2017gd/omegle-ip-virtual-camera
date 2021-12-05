@@ -1,7 +1,7 @@
 <div align="center">
 
 # Omegle IP Virtual Camera
-Grab IP of Omegle stranger and display it on OBS Virtual Camera
+Grab IP data of Omegle stranger and display it on OBS Virtual Camera
 
 </div>
 
