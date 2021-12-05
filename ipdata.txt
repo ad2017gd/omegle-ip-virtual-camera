@@ -1,13 +1,9 @@
-COUNTRY : United States
-COUNTRYCODE : US
-REGION : MA
-REGIONNAME : Massachusetts
-CITY : Boston
-ZIP : 02118
-LAT : 42.3388
-LON : -71.0726
-TIMEZONE : America/New_York
-ISP : Comcast Cable Communications
-ORG : Comcast IP Services, L.L.C.
-AS : AS7922 Comcast Cable Communications, LLC
-IP : 73.219.235.151
+Placeholder until the first victim.
+Balbalba
+eid9eided
+e
+dfsa
+df
+sd
+gh
+sdr
