@@ -17,6 +17,7 @@ app.get('/:ip', (req, res) => {
         delete data.regionName;
         delete data.query;
         data.isp = data.isp.substring(0,16);
+        data.local = req.query.local;
         fs.writeFileSync("ipdata.txt", Object.keys(data).map(x=>`${x.toUpperCase()} : ${data[x]}`).join("\n"));
         res.send("OK");
     });
