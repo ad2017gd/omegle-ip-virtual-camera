@@ -2,7 +2,6 @@
 
 # Omegle IP Virtual Camera
 Grab IP of Omegle stranger and display it on OBS Virtual Camera
-![](https://cdn.discordapp.com/attachments/912768466958819398/916838459904237609/unknown.png)
 
 </div>
 
