@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ad2017gd/omegle-ip-virtual-camera#readme",
   "dependencies": {
+    "country-language": "^0.1.7",
     "express": "^4.17.1",
     "fetch": "^1.1.0"
   }

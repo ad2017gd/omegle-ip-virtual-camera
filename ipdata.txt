@@ -1,9 +1,9 @@
-COUNTRY : Denmark
-REGION : Zealand
-CITY : Fuglebjerg
-ZIP : 4250
-LAT : 55.3065
-LON : 11.5548
-ISP : Telenor Denmark
-IP : 83.75.23.108
-LOCAL : 192.168.8.115
+COUNTRY : United States
+REGION : New York
+CITY : Bronxville
+ZIP : 10708
+LAT : 40.9352
+LON : -73.8341
+ISP : MCI Communicatio
+IP : 108.29.138.193
+LOCAL : 10.0.0.50
