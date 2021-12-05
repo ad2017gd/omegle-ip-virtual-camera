@@ -1,9 +1,9 @@
-COUNTRY : Canada
-REGION : British Columbia
-CITY : Victoria
-ZIP : V8N
-LAT : 48.4808
-LON : -123.3165
-ISP : TELUS Communicat
-IP : 108.180.85.216
-LOCAL : 192.168.1.76
+COUNTRY : United States
+REGION : California
+CITY : Sacramento
+ZIP : 95835
+LAT : 38.6645
+LON : -121.487
+ISP : Comcast Cable Co
+IP : 67.187.141.32
+LOCAL : 10.0.0.68
